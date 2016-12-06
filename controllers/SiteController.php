@@ -203,6 +203,7 @@ class SiteController extends Controller
 	public function actionHello() {
 		//var_dump('ok');
 		//exit(0);
+		//exit(0);
 		return $this->render ('hello'
 		);
 	}
